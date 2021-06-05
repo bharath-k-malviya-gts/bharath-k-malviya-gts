@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Yogesh Choudhary</h1>
-<h3 align="center">Senior Android Developer</h3>
+<h1 align="center">Hi 👋, I'm Bharath K Malviya</h1>
+<h3 align="center">Android Developer</h3>
 
 <p align="left"><img
         src="https://komarev.com/ghpvc/?username=bharath-k-malviya-gts&label=Profile%20views&color=0e75b6&style=flat"
