@@ -39,7 +39,7 @@
             alt="realm" width="40" height="40"/> </a></p>
 
 <p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=bharath-k-malviya-gts&show_icons=true&locale=en&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=bharath-k-malviya-gts&show_icons=true&count_private=true&locale=en&layout=compact"
         alt="bharath-k-malviya-gts"/></p>
 
 <p>&nbsp;<img align="center"
