@@ -43,7 +43,6 @@ alt="realm" width="40" height="40"/> </a></p>
 
 </p>
 
-
 <!-- ![Profile views](https://gpvc.arturio.dev/bharath-k-malviya-gts) -->
 
 <center>
