@@ -7,6 +7,7 @@
 src="https://komarev.com/ghpvc/?username=bharath-k-malviya-gts&label=Profile%20views&color=0e75b6&style=flat"
 alt="bharath-k-malviya-gts"/></p>
 
+
 - 💬 Ask me about **Android**
 
 <h3 align="left">Languages and Tools:</h3>
